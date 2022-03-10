@@ -5,3 +5,6 @@ Desafio: criar repositório remoto no GitHub usando Git Bash.
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/) 
 
 [Dio - Digital Innovation One](https://www.dio.me/en)
+
+[Link para download do Git](https://git-scm.com/)
+
